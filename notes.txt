@@ -1,1 +1,1 @@
-This is for the CSC 450 lab.
+This is for the CSC 450 class, <-- My change.
