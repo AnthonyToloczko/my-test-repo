@@ -3,5 +3,5 @@ def main():
     someCode += 1
     str(someCode)
     print(someCode)
-    print("commiting these changes")
+    print("Totally fixing the file")
 main()
